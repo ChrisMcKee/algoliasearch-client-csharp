@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algolia.Search.Test", "Algolia.Search.Test\Algolia.Search.Test.csproj", "{9CB9EB7B-9DB6-4DB8-A516-553722DCD90C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algolia.Search.Test", "Algolia.Search.Test/Algolia.Search.Test.csproj", "{9CB9EB7B-9DB6-4DB8-A516-553722DCD90C}"
 EndProject
-Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Algolia.Search", "Algolia.Search\Algolia.Search.csproj", "{37B76C7C-24B3-42C6-A46F-9D02A8C0F2FC}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Algolia.Search", "Algolia.Search/Algolia.Search.csproj", "{37B76C7C-24B3-42C6-A46F-9D02A8C0F2FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
